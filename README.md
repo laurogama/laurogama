@@ -4,12 +4,24 @@ I'm also currently doing my Msc. in Software Engineering.
 I currently passionate about Mobile Development, Neural Nets and Automation.
 When I'm not developing and building things, you can find me on Twitter, reading books and manga or on my PS4 gaming.</p>
 
-### 💼 Where i am currently working at/as
+### 💼 Where I am currently working at/as
 - [Sidia: Senior Software Developer](http://www.sidia.com) 💼 
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Android-informational?style=plastic&logo=android&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Vim-informational?style=plastic&logo=vim&logoColor=white&color=019733)
+![](https://img.shields.io/badge/Editor-VScode-informational?style=plastic&logo=visual-studio-code&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-ZSH-informational?style=plastic&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=plastic&logo=docker&logoColor=white&color=2bbc8a)
+
 ### 📖 What i am currently learning
 - Rust language
 - Neural style transfer
 - Digital TV/mobile integration
+
 
 ### 📫 Where to find me
 - [Twitter](https://twitter.com/laurogama) 🐤
