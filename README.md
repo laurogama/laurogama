@@ -5,7 +5,7 @@ I currently passionate about Mobile Development, Neural Nets and Automation.
 When I'm not developing and building things, you can find me on Twitter, reading books and manga or on my PS4 gaming.</p>
 
 ### 💼 Where I am currently working at/as
-- [Sidia: Senior Software Developer](http://www.sidia.com) 💼 
+- [Sidia: Technical Specialist](http://www.sidia.com) 💼 
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=white&color=2bbc8a)
