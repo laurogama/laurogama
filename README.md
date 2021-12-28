@@ -1,8 +1,8 @@
 <h2 align="center">Hello there! My name is Lauro Gama. 👋🤓</h2>
-<p align="center">I'm an Android and Web Developer from Manaus.
-I'm also currently doing my Msc. in Software Engineering.
-I currently passionate about Mobile Development, Neural Nets and Automation.
-When I'm not developing and building things, you can find me on Twitter, reading books and manga or on my PS4 gaming.</p>
+<p align="center">I'm a Developer from Manaus.
+I have a Masters in Software Engineering.
+I currently passionate about Python and back end development.
+When I'm not developing and building things, you can find me on Twitter, reading books and manga or on my PS5 gaming.</p>
 
 ### 💼 Where I am currently working at/as
 - [Sidia: Technical Specialist](http://www.sidia.com) 💼 
@@ -17,10 +17,10 @@ When I'm not developing and building things, you can find me on Twitter, reading
 ![](https://img.shields.io/badge/Shell-ZSH-informational?style=plastic&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=plastic&logo=docker&logoColor=white&color=2bbc8a)
 
-### 📖 What i am currently learning
+### 📖 What I am currently learning
 - Rust language
-- Neural style transfer
-- Digital TV/mobile integration
+- FastApi framework
+- Data Analysis with Pandas
 
 
 ### 📫 Where to find me
