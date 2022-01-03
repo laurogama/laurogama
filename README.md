@@ -5,7 +5,7 @@ I currently passionate about Python and back end development.
 When I'm not developing and building things, you can find me on Twitter, reading books and manga or on my PS5 gaming.</p>
 
 ### 💼 Where I am currently working at/as
-- [Sidia: Technical Specialist](http://www.sidia.com) 💼 
+- [iClinic: Python Backend Developer](http://www.iclinic.com.br) 💼 
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=white&color=2bbc8a)
